@@ -7,3 +7,7 @@ func main() {
 func test3() {
 	print("3")
 }
+
+func test4() {
+	print("4")
+}
