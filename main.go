@@ -5,5 +5,9 @@ func main() {
 }
 
 func test1() {
-	print("A")
+	print("1")
+}
+
+func test2() {
+	print("2")
 }
